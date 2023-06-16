@@ -1,0 +1,50 @@
+body {
+  background-color: #589ed9;
+  margin: 0;
+}
+.container {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  margin-top: 170px;
+}
+
+.head {
+  text-align: center;
+  padding-top: 5px;
+}
+.head .logo {
+  font-size: 50px;
+}
+.head h1 {
+  color: white;
+
+  font-size: 30px;
+}
+.head input {
+  width: 60%;
+  border: white;
+  margin-top: 1px;
+  padding: 15px;
+  border-radius: 4px;
+}
+.head button {
+  width: 70%;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 4px;
+  background-color: #2263f0;
+  color: white;
+  border: white;
+  font-size: 1em;
+  font-weight: bold;
+}
+.head a {
+  text-decoration: none;
+  color: white;
+  padding-right: 2px;
+  font-weight: 900;
+}
+.head p {
+  color: white;
+}
